@@ -6,7 +6,7 @@ A simple boilerplate to work with Node and Postgres
 
 ## Features
 * Node
-* Postgree
+* Postgres
 * Express
 * Sequelize
 * Nodemon
