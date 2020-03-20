@@ -1,4 +1,4 @@
-# [![Node Postgres Boilerplate](banner.jpg)]
+# ![Node Postgres Boilerplate](banner.jpg)
 
 # Node Postgres Boilerplate
 
